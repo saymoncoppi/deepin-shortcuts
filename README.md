@@ -5,8 +5,8 @@ It will be based on:
 http://www.techytalk.info/customize-default-desktop-environment-settings-gnome-centric-linux-distributions/ \
 https://github.com/linuxdeepin/deepin-desktop-schemas \
 
-sudo glib-compile-schemas /usr/share/glib-2.0/schemas/ \
+sudo glib-compile-schemas /usr/share/glib-2.0/schemas/ 
 
 Merging:
 https://itsfoss.com/ubuntu-shortcuts \
-https://support.microsoft.com/en-us/help/12445 \
+https://support.microsoft.com/en-us/help/12445 
